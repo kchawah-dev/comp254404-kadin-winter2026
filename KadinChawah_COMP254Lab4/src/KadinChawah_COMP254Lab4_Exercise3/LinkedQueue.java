@@ -1,3 +1,5 @@
+// COMP254 Lab 4 - Exercise 3
+// Code by Kadin Chawah
 package KadinChawah_COMP254Lab4_Exercise3;
 
 public class LinkedQueue<E> {

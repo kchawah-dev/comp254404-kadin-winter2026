@@ -1,3 +1,5 @@
+// COMP254 Lab 4 - Exercise 2
+// Code by Kadin Chawah
 package KadinChawah_COMP254Lab4_Exercise2;
 
 import java.util.Stack;

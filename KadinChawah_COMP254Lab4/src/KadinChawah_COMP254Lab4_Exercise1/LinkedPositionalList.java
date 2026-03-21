@@ -1,3 +1,5 @@
+// COMP254 Lab 4 - Exercise 1
+// Code by Kadin Chawah
 package KadinChawah_COMP254Lab4_Exercise1;
 
 //represents a position holding an element
